@@ -14,4 +14,4 @@ https://bank-website-javascript.netlify.app/
 
 #### PREVIEW
 
-![Just-Bank-landing](https://github.com/JuliaCMint/bank-website-app/assets/105377899/58d72869-2d19-42aa-8ce1-b24625d26a21)
+![Just-Bank-landing](https://github.com/JuliaCMint/bank-website-app/assets/105377899/1072d645-0be5-4cb8-9820-9e043e8a00e0)
